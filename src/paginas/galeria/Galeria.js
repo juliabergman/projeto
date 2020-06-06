@@ -1,14 +1,16 @@
-import React from './node_modules/react';
+import React from 'react';
 import './galeria.css';
+import Header from '../../components/header/Header'
+import Sidebar from '../../components/sidebar/SideBar'
 
 
 function Galeria(){
     return(
 
-        <div>
-            <div id="geralGaleria">
-                
-            </div>
+        <div id="geralGaleria">
+             <Header />
+           
+                <Sidebar/>
         </div>
 
     );

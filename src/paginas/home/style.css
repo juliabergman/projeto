@@ -6,7 +6,6 @@
 ***/
 
 
-/********    HEADER *********/
 
 header{
     position: absolute;
@@ -21,7 +20,104 @@ background: #FFFFFF;
 #feed{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
     height: 100vh;
+    
 }
 
 
-/******              HOME        **********/
+.emojiSorte{
+    position: absolute;
+width: 655px;
+height: 187px;
+left: 345px;
+top: 136px;
+
+
+background: rgba(255, 255, 255, 0.86);
+border-radius: 26px;
+    
+  }
+  .testimony2{
+    width: 550px;
+    height: 350px;
+    padding-left: 400px;
+    top: 200px;
+    
+    
+   
+ }
+ .testimony2 img{
+    width: 100px;
+    height: 100px;
+ }
+
+ .testimony2,.tst-info h3{
+    font-size: 15px;
+   
+ }
+ .testimony2,.tst-info p{
+    font-size: 15px;
+ }
+ .testimony2 .tstm {
+     
+    margin-top: 400px;
+    margin-bottom: 100px;
+  }
+.emojiSorte{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     font-family: 'Bebas Neue', cursive;
+}
+
+.frase{
+
+width: 487px;
+height: 38px;
+left: 370px;
+top: 315px;
+background: #FFC0DB;
+display: flex;
+text-align: center;
+justify-content: center;
+padding-top: 15px;
+font-size: 20px;
+border-radius: 26px;
+}
+
+.listaAmigos{
+    display: flex;
+text-align: center;
+justify-content: center;
+    position: absolute;
+width: 268px;
+height: 640px;
+left: 1043px;
+top: 134px;
+
+background: rgba(255, 255, 255, 0.78);
+border-radius: 16px;
+font-family: 'Bebas Neue', cursive;
+}
+
+.conteudo button{
+    width: 90px;
+  height: 40px;
+
+  background-color: #FF961B;
+
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Bebas Neue', cursive;
+
+  border: none;
+  border-radius: 20px;
+
+  margin-top: 20px;
+  margin: 5px;
+
+  transition: filter 400ms;
+   
+}
+  
+  

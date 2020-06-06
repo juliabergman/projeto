@@ -1,27 +1,51 @@
 import React from 'react'
 import './style.css'
+import Header from '../../components/header/Header';
+import Sidebar from '../../components/sidebar/SideBar'
+import Testimony from '../../components/testimony/Testimony';
+
 
 
 function Home(){
     return(
+        <div>
+        <Header />
         <div id="feed">
+        <Sidebar/>
 
-        <div id="geralHome">
-            <section className="perfilHome">
-            {/* <img src=""/> */}
-            <div className="perfilLaranja">      
-            <h1>Ana Ono</h1>
-            <p>Feminino, Namorando, Paris></p>
-            <h2>Status</h2>
-            <div className="perfilBranco">
-                <p>"frase legal"</p>
-              
+        <div className="emojiSorte">
+            <div className="conteudo">
+
+            <button>Legal</button>
+            <button>Confiável</button>
+            <button>Sexy</button>
+            <h1>Sorte do dia</h1>
+            <div className="frase">
+                <p>“que dia lindo para usar um fio dental”</p>
             </div>
+         </div>
+         </div>
+      
+        <div className="testimony2">
+                <Testimony />
+                </div>
+                <div className="testimony2">
+                <Testimony />
+                </div>
+                <div className="testimony2">
+                <Testimony />
+                </div>
+                <div className="testimony2">
+                <Testimony />
+                </div>
+                <div className="listaAmigos">
+                    <h1> AMIGOS </h1>
+                    
 
-            </div>     
+                </div>
                 
-  </section>
-       
+        
+            
         </div>
         </div>
 

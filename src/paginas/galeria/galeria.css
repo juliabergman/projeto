@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-.feed{
-    background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+#geralGaleria{
+    background:  linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+    width: 100%;
     height: 100vh;
 }

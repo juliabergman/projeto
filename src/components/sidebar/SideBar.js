@@ -7,7 +7,7 @@ import Taylor from '../../assets/images/taylor.jpg';
 export default class Sidebar extends Component {
   render() {
     return (
-      <div id="master">
+    
         <div className="sidebar-container">
 
           <img src={Taylor} alt="Foto da Taylor Swift em quarentena" />
@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
           <button>opinar</button>
           <button>depoimento</button>
         </div>
-      </div>
+      
 
     );
   }
