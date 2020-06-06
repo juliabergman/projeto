@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+
+
+#teste{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    width: 500px;
+    height: 500px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+    box-shadow: 3px 3px 3px 3px rgba(68, 20, 20, 0.2);
+    margin-top: 76px;
+
+
+}
+
+.login input{
+    width: 350px;
+    height: 35px;
+    margin-bottom: 30px;
+    background: #f3f0f0;
+    border: none;
+    box-shadow: 0 2px 3px 0 rgba(104, 103, 103, 0.3);
+    padding: 7px;
+    
+   
+    
+}
+
+
+.login button{
+    width: 170px;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 5px;
+    background: #FF961B;
+    color: #ffffff;
+    transition: filter 400ms;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.login button:hover{
+    filter: brightness(80%);
+    
+}
+
+.login label{
+    font-size: 25px;
+    margin-right: 285px;
+    margin-bottom: 4px;
+    font-family: 'Bebas Neue', cursive;
+    color: #202020;
+}

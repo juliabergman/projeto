@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#master {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+}
+
+.sidebar-container {
+  width: 15%;
+  height: 650px;
+  background-color: rgba(255, 255, 255, 0.78);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  position: absolute;
+
+  margin: 90px 0 0 20px;
+}
+
+.sidebar-container img {
+  width: 150px;
+  height: 150px;
+
+  border-radius: 50%;
+  margin: -40px 0 30px 0;
+}
+
+.info {
+  width: 175px;
+  height: 30vh;
+  background-color: rgba(255, 150, 27, 0.51);
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.info h3{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.info p{
+  font-size: 15px;
+
+  padding: 10px;
+
+}
+
+.info span {
+  width: 150px;
+  height: 80px;
+
+  margin-top: 20px;
+
+  background-color: #fff;
+
+  color: #635B5B;
+}
+
+.sidebar-container button {
+  width: 150px;
+  height: 40px;
+
+  background-color: #FF961B;
+
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Bebas Neue', cursive;
+
+  border: none;
+  border-radius: 20px;
+
+  margin-top: 20px;
+
+  transition: filter 400ms;
+}
+
+.sidebar-container button:hover {
+  filter: brightness(90%);
+}

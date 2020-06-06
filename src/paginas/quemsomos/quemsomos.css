@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+#quemSomos{
+    background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projeto{
+    width:100%;
+    height: 550px;
+    background: rgba(253, 253, 253, 0.74);
+    /* border-radius: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+    box-shadow: 3px 3px 3px 3px rgba(68, 20, 20, 0.2);
+    margin-top: 650px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.geralQuemSomos h1, h2, h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.geralQuemSomos h1{
+    font-size: 70px;
+}
+
+.geralQuemSomos h4{
+    font-size: 30px;
+text-align: center;
+padding-top: 110px;
+
+}
+.geralQuemSomos h2{
+    font-size: 60px;
+  
+}
+.geralQuemSomos h5{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+.geralQuemSomos legend{
+    font-family: 'Bebas Neue', cursive;
+}
+.apresentacao{
+    display: flex;
+    flex-direction: column;  
+    margin-top: 76px;
+}

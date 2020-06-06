@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/*  
+    font-family: 'Bebas Neue', cursive;
+
+***/
+
+
+/********    HEADER *********/
+
+header{
+    position: absolute;
+width: 100%;
+height: 77px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+#feed{
+    background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
+    height: 100vh;
+}
+
+
+/******              HOME        **********/
