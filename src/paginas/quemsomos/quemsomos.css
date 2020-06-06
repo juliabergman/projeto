@@ -3,24 +3,43 @@
 
 #quemSomos{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
-    height: 100vh;
+    height: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    
+    flex-direction: column;  
+}
+
+h2 {
+    margin-top: 50px;
+    font-size: 40px;
+    color: #202020;
 }
 
 .projeto{
-    width:100%;
-    height: 550px;
+    width: 100%;
+    height: 50vh;
     background: rgba(253, 253, 253, 0.74);
     /* border-radius: 50%; */
+    box-shadow: 3px 3px 3px 3px rgba(68, 20, 20, 0.2);
+
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;  
-    box-shadow: 3px 3px 3px 3px rgba(68, 20, 20, 0.2);
-    margin-top: 650px;
     font-family: 'Bebas Neue', cursive;
+}
+
+.projeto h1 {
+    font-size: 40px;
+    margin-top: 80px;
+    color: #202020
+}
+
+.projeto p {
+    font-size: 30px;
+    padding: 25px;
+    text-align: center;
+    color: #202020
 }
 
 .geralQuemSomos h1, h2, h4{
@@ -34,25 +53,4 @@
     font-size: 70px;
 }
 
-.geralQuemSomos h4{
-    font-size: 30px;
-text-align: center;
-padding-top: 110px;
 
-}
-.geralQuemSomos h2{
-    font-size: 60px;
-  
-}
-.geralQuemSomos h5{
-    font-family: 'Bebas Neue', cursive;
-    font-size: 30px;
-}
-.geralQuemSomos legend{
-    font-family: 'Bebas Neue', cursive;
-}
-.apresentacao{
-    display: flex;
-    flex-direction: column;  
-    margin-top: 76px;
-}

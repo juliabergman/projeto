@@ -5,6 +5,7 @@ import Home from './paginas/home/Index';
 import Login from './paginas/login/Login';
 // import './paginas/Login/Login.css'
 import HomeVisitante from './paginas/homeVisitante/index';
+import QuemSomos from './paginas/quemsomos/QuemSomos';
 
 function Routes() {
     return (
@@ -14,6 +15,7 @@ function Routes() {
                 <Route path="/login" component={Login} />
                 <Route path="/home" component={Home} />
                 <Route path="/homeVisitante" component={HomeVisitante} />
+                <Route path="/quemSomos" component={QuemSomos} />
             </Switch>
         </BrowserRouter>
 
