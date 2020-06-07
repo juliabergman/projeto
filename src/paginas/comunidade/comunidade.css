@@ -1,9 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
 #geralComunidade{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
     height: 100vh;
     font-family: 'Bebas Neue', cursive;
+    background-size: cover;
+    display: flex;
 }
 
 #geralComunidade img{
@@ -15,15 +24,80 @@ top: 120px;
 border-radius: 50%;
 }
 
+
+
 .bioBranca{
 position: absolute;
 width: 200px;
-height: 171px;
+height: 100px;
 left: 75px;
 top: 460px;
-
+border-radius: 26px;
  background: rgba(255, 255, 255, 0.86);
+ text-align: center;
 }
+
+.nomeTitulo{
+    position: absolute;
+
+left: 661px;
+top: 150px;
+
+font-size: 35px;
+
+
+color: #202020;
+
+}
+.nomeTitulo2{
+    
+position: absolute;
+
+left: 95px;
+top: 481px;
+font-size: 15px;
+
+
+color: #202020;
+
+}
+.membros{
+    position: absolute;
+
+left: 115px;
+top: 520px;
+font-size: 15px;
+
+
+color: rgb(59, 57, 57);
+
+}
+
+.esquerdo{
+    position: absolute;
+
+left: 530px;
+top: 250px;
+font-size: 30px;
+color: #202020;
+
+
+}
+
+.direito{
+position: absolute;
+left: 943px;
+top: 250px;
+font-size: 30px;
+
+color: #202020;
+
+
+}
+
+
+
+
 
 .forumBio{
     position: absolute;
@@ -31,9 +105,84 @@ top: 460px;
     height: 387px;
     left: 430px;
     top: 136px;
-    
+    text-align: center;
     
     background: rgba(255, 255, 255, 0.86);
     border-radius: 26px;
         
 }
+.bioBoa{
+    position: absolute;
+left: 530px;
+top: 400px;
+font-size: 30px;
+
+
+color: rgb(59, 57, 57);
+}
+.caixinhadoforum a{
+    color: rgb(83, 71, 255);
+
+    position: relative;
+
+padding-left:  20px;
+top: 5px;
+
+
+font-size: 20px;
+line-height: 35px;
+}
+.caixinhadoforum .data{
+    color: rgb(82, 80, 82);
+    position: relative;
+
+    left: -180px;
+    top:25px;
+}
+.caixinhadoforum .respostas{
+    color: rgb(82, 80, 82);
+    position: relative;
+
+    left: -96px;
+    top:10px;
+
+}
+
+.tituloforum{
+    position: absolute;
+left: 720px;
+top: 550px;
+font-size: 54px;
+color: #000000;
+}
+
+.caixinhadoforum{
+    
+    position: absolute;
+    width: 855px;
+    height: 400px;
+    left: 430px;
+    top: 700px;
+    margin-bottom: 150px;
+    background: rgba(255, 255, 255, 0.86);
+    border-radius: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+
+
+
+   
+   
+   
+   
+    
+
+
+
+
+

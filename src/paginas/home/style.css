@@ -5,6 +5,12 @@
 
 ***/
 
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
 
 
 header{
@@ -17,9 +23,10 @@ top: 0px;
 background: #FFFFFF;
 }
 
-#feed{
+body{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
     height: 100vh;
+    background-repeat: no-repeat;
     
 }
 
@@ -36,32 +43,7 @@ background: rgba(255, 255, 255, 0.86);
 border-radius: 26px;
     
   }
-  .testimony2{
-    width: 550px;
-    height: 350px;
-    padding-left: 400px;
-    top: 200px;
-    
-    
-   
- }
- .testimony2 img{
-    width: 100px;
-    height: 100px;
- }
-
- .testimony2,.tst-info h3{
-    font-size: 15px;
-   
- }
- .testimony2,.tst-info p{
-    font-size: 15px;
- }
- .testimony2 .tstm {
-     
-    margin-top: 400px;
-    margin-bottom: 100px;
-  }
+  
 .emojiSorte{
     display: flex;
      align-items: center;
@@ -89,7 +71,7 @@ border-radius: 26px;
     display: flex;
 text-align: center;
 justify-content: center;
-    position: absolute;
+position: absolute;
 width: 268px;
 height: 640px;
 left: 1043px;

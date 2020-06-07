@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.visitaGeral{
+    width: 250px;
+    height: 319px;
+  background-color: rgba(255, 255, 255, 0.78);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  position: absolute;
+  border-radius: 46px;
+
+  margin: 150px 0 0 20px;
+}
+
+
+
+.visitaGeral  button{
+    width: 150px;
+    height: 40px;
+  
+    background-color: #FF961B;
+  
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+  
+    border: none;
+    border-radius: 20px;
+    left: 40px;
+    margin: 25px;
+  
+    transition: filter 400ms;
+}
+
+.visitaGeral button:hover {
+    filter: brightness(90%);
+  }

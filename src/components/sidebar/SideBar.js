@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import {Link} from 'react-router-dom';
 import './sidebar.css';
 
 import Taylor from '../../assets/images/taylor.jpg';
@@ -14,16 +14,19 @@ export default class Sidebar extends Component {
 
 
           <div className="info">
-            <h3>{this.props.name}</h3>
+            <h3>Ana Ono</h3>
             <p>
-              {this.props.bio}
+              Feminino, <br/>
+              Namorando,<br/>
+              Paris
             </p>
 
-            <span>A Julia enche o meu saco</span>
+            <span><br/>"A Julia enche o meu saco"</span>
           </div>
 
           <button>opinar</button>
           <button>depoimento</button>
+          <Link className="linkperfil" to='/perfil' title="Home do site"> PERFIL </Link>
         </div>
       
 

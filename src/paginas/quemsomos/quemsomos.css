@@ -4,8 +4,7 @@
 #quemSomos{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
     height: 100%;
-    display: flex;
-    
+    display: flex;   
     flex-direction: column;  
 }
 

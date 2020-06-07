@@ -1,6 +1,71 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-.feed{
+
+*{
+    margin: 0%;
+    top: 0%;
+}
+
+
+#geralPerfil{
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
-    height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+    background-repeat: no-repeat;
+
+}
+.capa img{
+    
+    width: 1100px;
+    height: 400px;
+}
+
+.perfil img{
+    position: relative;
+    left: 10px;
+    top: -250px;
+width: 300px;
+height: 300px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(0.58deg);
+border-radius: 50%;
+}
+
+.oNomeDaAna h1{
+position: relative;
+width: 298px;
+height: 85px;
+top: -250px;
+left: 58px;
+font-size: 72px;
+line-height: 84px;
+}
+
+.listaAmigosPerfil{
+    display: flex;
+text-align: center;
+justify-content: center;
+position: absolute;
+width: 268px;
+height: 500px;
+left: 150px;
+top:500px;
+
+background: rgba(255, 255, 255, 0.78);
+border-radius: 16px;
+font-family: 'Bebas Neue', cursive;
+}
+
+.sobreMim{
+position: absolute;
+width: 626px;
+height: 169px;
+left: 600px;
+top: 600px;
+background: #FFFCFC;
+border-radius: 15px;
+text-align: center;
 }

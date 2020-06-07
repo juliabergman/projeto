@@ -1,12 +1,12 @@
 import React from 'react';
 import './login.css';
-import Header from '../../components/header/Header';
-import Footer from '../../components/footer/Footer';
+import {Link} from 'react-router-dom';
+
 
 function Login(){
     return(
         <div>
-            <Header/>
+           
         <div id="teste">         
         <div className="login">
             <label>Email</label>
@@ -14,12 +14,12 @@ function Login(){
             <label>Senha</label>
             <input placeholder="Digite sua senha aqui..."/>           
             <button>Entrar</button>
-            <button>Visitante</button>
+            <Link className="linklogin" to='/homevisitante' title="Home do visitante do site">Visitante</Link>
            
         </div>
        
         </div>
-        <Footer/>
+       
         </div>
     );
         

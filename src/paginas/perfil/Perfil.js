@@ -1,5 +1,8 @@
-import React from './node_modules/react';
+import React from 'react';
 import './perfil.css';
+import Taylor from '../../assets/images/taylor.jpg'
+import Header from '../../components/header/Header'
+import Footer from '../../components/footer/Footer'
 
 
 function Perfil(){
@@ -7,9 +10,29 @@ function Perfil(){
     return(
 
         <div>
-
+            <Header/>
+         <main>
         <div id="geralPerfil">
+            <div className="capa">
+            <img src={Taylor} alt="capa" />
+            </div>
+            <div className="perfil">
+            <img src={Taylor} alt="capa" />
+            </div>
+            <div className="oNomeDaAna">
+                <h1>Ana Ono</h1>
+            </div>
+            <div className="listaAmigosPerfil">
+                    <h1> AMIGOS </h1>
+                     </div>
+            <div className="sobreMim">
+                <h1>SOBRE MIM</h1>
+                <p>sou uma menina bem gatinha e famosa que amo meus fas *--*</p>
+            </div>
+        
         </div>
+        </main>   
+        <Footer/>
         </div>
     );
 }

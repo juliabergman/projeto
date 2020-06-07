@@ -41,8 +41,13 @@
     
 }
 
-
-.login button{
+.linklogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+.login button, .linklogin{
     width: 170px;
     height: 35px;
     border: none;
@@ -54,9 +59,10 @@
     cursor: pointer;
     font-size: 25px;
     font-family: 'Bebas Neue', cursive;
+    text-decoration: none;
 }
 
-.login button:hover{
+.login button:hover, .linklogin:hover{
     filter: brightness(80%);
     
 }

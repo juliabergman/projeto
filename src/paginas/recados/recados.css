@@ -4,23 +4,4 @@
     background: linear-gradient(180deg, #FA951E 0%, rgba(255, 255, 255, 0) 100%), #E05891;
     height: 100vh; 
 }
-.testimony2{
-    width: 550px;
-    height: 350px;
-    padding-left: 400px;
-    padding-top: 30px;
-    
-   
- }
- .testimony2 img{
-    width: 100px;
-    height: 100px;
- }
 
- .testimony2,.tst-info h3{
-    font-size: 15px;
-   
- }
- .testimony2,.tst-info p{
-    font-size: 15px;
- }

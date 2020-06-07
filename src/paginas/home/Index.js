@@ -2,7 +2,8 @@ import React from 'react'
 import './style.css'
 import Header from '../../components/header/Header';
 import Sidebar from '../../components/sidebar/SideBar'
-import Testimony from '../../components/testimony/Testimony';
+import Opinar from '../../components/opinar/Opinar';
+import Footer from '../../components/footer/Footer'
 
 
 
@@ -10,6 +11,7 @@ function Home(){
     return(
         <div>
         <Header />
+        <body>
         <div id="feed">
         <Sidebar/>
 
@@ -26,18 +28,8 @@ function Home(){
          </div>
          </div>
       
-        <div className="testimony2">
-                <Testimony />
-                </div>
-                <div className="testimony2">
-                <Testimony />
-                </div>
-                <div className="testimony2">
-                <Testimony />
-                </div>
-                <div className="testimony2">
-                <Testimony />
-                </div>
+                <Opinar/>
+        
                 <div className="listaAmigos">
                     <h1> AMIGOS </h1>
                     
@@ -47,7 +39,10 @@ function Home(){
         
             
         </div>
+        </body>
+        <Footer/>
         </div>
+        
 
     );
 
