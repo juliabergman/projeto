@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import {Link} from 'react-router-dom';
 import './perfilVisitante.css';
 export default class PerfilVisitante extends Component{
     render(){
@@ -8,6 +8,7 @@ export default class PerfilVisitante extends Component{
             <div className="visitaPerfil"></div>
             <button>Opinar</button>
             <button>Depoimento</button>
+            <Link className="linkperfil" to='/' title="sair do site">Sair </Link>
             </div>
 
         );

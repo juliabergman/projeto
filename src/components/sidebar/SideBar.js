@@ -25,8 +25,9 @@ export default class Sidebar extends Component {
           </div>
 
           <button>opinar</button>
-          <Link className="linkperfil" to='/recados' title="Home do site"> Depoimento</Link>
-          <Link className="linkperfil" to='/perfil' title="Home do site"> PERFIL </Link>
+          <Link className="linkperfil" to='/recados' title="Página de recados"> Depoimento</Link>
+          <Link className="linkperfil" to='/perfil' title="Perfil ana"> PERFIL </Link>
+          <Link className="linkperfil" to='/' title="sair do site">Sair </Link>
         </div>
       
 
