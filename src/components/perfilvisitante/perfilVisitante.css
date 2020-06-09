@@ -35,6 +35,7 @@
     margin: 25px;
   
     transition: filter 400ms;
+    cursor: pointer;
 }
 
 .visitaGeral button:hover {
