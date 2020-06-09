@@ -23,3 +23,28 @@ header ul a{
     text-decoration: none;
 
 }
+
+@media only screen and (max-device-width: 900px){
+    header nav ul{
+        display: flex;
+        width: 100%;
+        background: white;
+        height: 80px;
+        align-items: center;
+        justify-content: flex-end;
+        
+       
+        
+    }
+    header ul a{
+      
+        margin-right: 10px;
+        list-style: none;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 17px;
+        color: #202020;
+        text-decoration: none;
+    
+    }
+
+}

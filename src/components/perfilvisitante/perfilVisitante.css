@@ -40,3 +40,47 @@
 .visitaGeral button:hover {
     filter: brightness(90%);
   }
+
+  @media only screen and (max-device-width: 900px){
+
+
+
+      .visitaGeral{
+        width: 70%;
+		float: right;
+		text-align: center;
+      }
+    .visitaGeral{
+      width: 100px;
+      height: 219px;
+    background-color: rgba(255, 255, 255, 0.78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    position: absolute;
+    border-radius: 46px;
+  
+    margin: 150px 0 0 20px;
+  }
+
+  .visitaGeral  button{
+    width: 85px;
+    height: 40px;
+  
+    background-color: #FF961B;
+  
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+  
+    border: none;
+    border-radius: 20px;
+    left: 40px;
+    margin: 25px;
+  
+    transition: filter 400ms;
+}
+
+  }

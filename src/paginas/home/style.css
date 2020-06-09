@@ -101,5 +101,38 @@ font-family: 'Bebas Neue', cursive;
   transition: filter 400ms;
    
 }
+
+
+@media only screen and (max-device-width: 900px){
+
+    .emojiSorte{
+        position: absolute;
+    width: 175px;
+    height: 187px;
+    left: 145px;
+    top: 136px;
+    
+    
+    background: rgba(255, 255, 255, 0.86);
+    border-radius: 26px;
+        
+      }
+
+      .frase{
+
+        width: 157px;
+        height: 48px;
+        left: 370px;
+       
+        background: #FFC0DB;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 15px;
+        font-size: 15px;
+        border-radius: 26px;
+        }
+
+}
   
   

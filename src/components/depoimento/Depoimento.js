@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './depoimento.css';
 
-import Taylor from '../../assets/images/taylor.jpg'
+import User from '../../assets/images/userfoto.png.png'
 
 export default class depoimento extends Component {
   render() {
@@ -10,7 +10,7 @@ export default class depoimento extends Component {
       <div>
         <div className="depoimentotstm">
           <div className="depoimentotst-info">
-            <img src={Taylor} alt="Imagem do usuario" />
+            <img src={User} alt="Imagem do usuario" />
             <h3>{this.props.name}</h3>
             <p>visitante</p>
           </div>

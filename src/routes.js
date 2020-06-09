@@ -28,6 +28,7 @@ import Forum7Visitante from './paginas/forum7visitante/Forum7Visitante'
 import Forum8 from './paginas/forum8/Forum8'
 import Forum8Visitante from './paginas/forum8visitante/Forum8Visitante'
 import QuemSomosVisitante from './paginas/quemsomosvisitante/QuemSomosVisitante';
+import PerfilVisitante from './paginas/perfilvisitante/PerfilVisitante'
 
 function Routes() {
     return (
@@ -62,6 +63,7 @@ function Routes() {
                <Route path="/forum8" component={Forum8} />
                <Route path="/forum8visitante" component={Forum8Visitante} />
                <Route path="/quemsomosvisitante" component={QuemSomosVisitante} /> 
+               <Route path="/perfilvisitante" component={PerfilVisitante} /> 
                
                
                

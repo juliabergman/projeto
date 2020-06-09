@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './opinar.css';
 
-import Taylor from '../../assets/images/taylor.jpg'
+import User from '../../assets/images/userfoto.png.png'
 
 export default class Opinar extends Component {
   render() {
@@ -15,7 +15,7 @@ export default class Opinar extends Component {
     
   
           <div className="tstmOpinar-info">
-          <img src={Taylor} alt="Imagem do usuario" />
+          <img src={User} alt="Imagem do usuario" />
      
         
             <h3>{this.props.name}</h3>
