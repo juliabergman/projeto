@@ -1,9 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './paginas/home/Index';
-// import './paginas/Home/style.css'
 import Login from './paginas/login/Login';
-// import './paginas/Login/Login.css'
 import QuemSomos from './paginas/quemsomos/QuemSomos';
 import Galeria from './paginas/galeria/Galeria';
 import Recados from './paginas/recados/Recados';
@@ -31,20 +29,18 @@ import Forum8 from './paginas/forum8/Forum8'
 import Forum8Visitante from './paginas/forum8visitante/Forum8Visitante'
 import QuemSomosVisitante from './paginas/quemsomosvisitante/QuemSomosVisitante';
 
-
 function Routes() {
     return (
 
         <BrowserRouter>
             <Switch>
-                <Route path="/login" component={Login} />
+                <Route exact path="/" component={Login} />
                 <Route path="/home" component={Home} />
                <Route path="/quemSomos" component={QuemSomos} /> 
                <Route path="/galeria" component={Galeria} />
                <Route path="/recados" component={Recados} />
                <Route path="/comunidade" component={Comunidade} />
-               <Route path="/comunidadevisitante" component={ComunidadeVisitante} />
-               
+               <Route path="/comunidadevisitante" component={ComunidadeVisitante} />              
                <Route path="/perfil" component={Perfil} />
                <Route path="/homevisitante" component={HomeVisitante} />
                <Route path="/recadosvisitante" component={RecadosVisitante} />
@@ -65,8 +61,6 @@ function Routes() {
                <Route path="/forum7visitante" component={Forum7Visitante} />
                <Route path="/forum8" component={Forum8} />
                <Route path="/forum8visitante" component={Forum8Visitante} />
-
-
                <Route path="/quemsomosvisitante" component={QuemSomosVisitante} /> 
                
                
