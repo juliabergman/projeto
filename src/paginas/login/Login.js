@@ -11,7 +11,7 @@ function Login(){
         <div className="login">
             <label>Email</label>
             <input placeholder="Digite seu email aqui..."/>
-            <label>Senha</label>
+            <label >Senha</label>
             <input placeholder="Digite sua senha aqui..."/>           
             <Link className="linklogin" to='/quemsomos' title="Home da ana">Entrar</Link>
             <Link className="linklogin" to='/quemsomosvisitante' title="Home do visitante do site">Visitante</Link>

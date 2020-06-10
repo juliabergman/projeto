@@ -98,8 +98,8 @@
 @media only screen and (max-device-width: 900px){
 
   #supremo {
-    width: 105%;
-    height: 40vh;
+    width: 100%;
+    height: 30vh;
   
     display: flex;
     justify-content: center;
@@ -124,20 +124,20 @@
   }
   
   .carousel-content img {
-    margin-top: 9px;
-    margin-left: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
   
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
   }
   
   .car {
-    width: 80%;
+    width: 0%;
     height: 68vh;
   }
   
   .vai {
-    width: 100%;
+    width: 0%;
     display: flex;
     align-items: center;
   
@@ -153,7 +153,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    background-color: #fff;
+    color: rgba(255, 255, 255, 0);
   }
   
   .coments img {
@@ -170,26 +170,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  
-    margin-right: 50px;
-    margin-bottom: 100px;
+  color: rgba(255, 255, 255, 0);
+    margin-right: 0px;
+    margin-bottom: 0px;
   }
   
   .coment-box {
-    width: 100px;
-    height: 70px;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  
-    margin-top: -80px;
-    margin-left: 10px;
-  
-    background-color: #f0f0f0;
-  
-    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+    width: 0px;
+    height: 0px;
+  }
+
+  .coments-profile img{
+    width: 0px;
   }
 
  

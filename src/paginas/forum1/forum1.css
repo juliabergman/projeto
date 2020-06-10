@@ -280,7 +280,7 @@ border-radius: 48px;
             .forumBiof{
                 position: absolute;
                 width: 168px;
-                height: 127px;
+                height: 177px;
                 left: 180px;
                 top: 136px;
                 text-align: center;
@@ -293,11 +293,11 @@ border-radius: 48px;
             .nomeTitulof{
                 position: absolute;
             
-            left: 200px;
+            left: 180px;
             top: 150px;
             
-            font-size: 10px;
-            
+            font-size: 15px;
+            margin: 9px;
             
             color: #202020;
             
@@ -315,7 +315,7 @@ border-radius: 48px;
                 
                 position: absolute;
                 width: 282px;
-                height: 760px;
+                height: 550px;
                 left: 40px;
                 top: 420px;
                 margin-bottom: 190px;
@@ -385,6 +385,23 @@ border-radius: 48px;
                 
                 
                 color: #202020;
+            }
+
+            .botaoforum{
+               
+                background-color: #ff1ba8a6;
+              
+                color: #fff;
+                font-size: 22px;
+                font-family: 'Bebas Neue', cursive;
+              
+                border: none;
+                position: relative;
+                top: 80px;
+                margin: 5px;
+                left:12px;
+                transition: filter 400ms;
+                text-decoration: none;
             }
             
 
