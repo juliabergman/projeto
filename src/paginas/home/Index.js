@@ -40,7 +40,7 @@ function Home(){
                 <div className="amigostituloopa">
                         <h1>Amigos</h1>
                     </div>
-                <div className="listaAmigos">''
+                <div className="listaAmigos">
                 
                     {/* <h1 className="amigoslistadeamigos"> AMIGOS </h1> */}
                     <div className="imagensamigos">

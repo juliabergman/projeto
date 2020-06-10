@@ -32,58 +32,46 @@ function Forum1(){
             
             <div className="textobiof">
           
-                <div className="nomeTitulof">
-            <h1>lulu</h1>
-            <p> <br/>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
-            </div>
-               
-               
-                </div>
+          <div className="nomeTitulof">
+      <h1>lulu</h1>
+      <p> <br/>A ana brigou com a pablo????????</p>
+      </div>
+         
+         
+          </div>
 
-            <div className="forumconversaf">
-                <p> Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
-            </div>
-
-            <div className="tituloforumf">
-                <h1>RESPOSTAS</h1>
-            </div>
+      <div className="tituloforumf">
+          <h1>RESPOSTAS</h1>
+      </div>
 
 
-           {/** ITENS DO FORUM!!!!!!! */}
-            <div className="caixinhadoforumf">
-                
+     {/** ITENS DO FORUM!!!!!!! */}
+      <div className="caixinhadoforumf">
+          
 
 
 
 
-            <div className="outronome">
-            <h1>aninha da quebrada</h1>
-            </div>
-            <div className="Pergunta1">
-             <p>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>      
-            </div>
-            </div>
+      <div className="outronome">
+      <h1>Vitinho do sus</h1>
+      </div>
+      <div className="Pergunta1">
+       <p>Naum sei mas eu prefrio a anah</p>      
+      </div>
+      </div>
 
-            <div className="caixinhadoforumf2">
+      <div className="caixinhadoforumf2">
 
-                <div className="outronome2">
-                    <h1>Mc juju</h1>
-                    </div>
-                    <div className="Pergunta2">
-                        <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
-                    </div>
+          <div className="outronome2">
+              <h1>Mc juju</h1>
+              </div>
+              <div className="Pergunta2">
+                  <p>Soh boatos gatah</p>
+              </div>
                
             </div>
 {/** ITENS DO FORUM!!!!!!! */}
+
 
 
 

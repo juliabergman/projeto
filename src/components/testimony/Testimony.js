@@ -64,7 +64,6 @@ export default class Testimony extends Component {
           <div className="redessociais">
           <a href="https://www.instagram.com/_ttheana/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
          <a href="https://github.com/de-carvalho">  <img src={Github} alt="Github" /></a>
-         <a href="">  <img src={Twitter} alt="Twitter" /> </a>
         
 
 
@@ -94,7 +93,7 @@ export default class Testimony extends Component {
           <div className="redessociais">
         <a href="https://www.instagram.com/oieusouolucass/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
          <a href="https://github.com/eichild">  <img src={Github} alt="Github" /></a>
-         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://twitter.com/eichild">  <img src={Twitter} alt="Twitter" /> </a>
        
           </div>
 
@@ -111,18 +110,13 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>Julia Bergman teve A brilhante (ou catastrófica) ideia
-            de dar de presente para sua amiga Ana Ono uma versão
-            futuristica do Orkut. O site foi inspirado em outras
-            plataformas como o twitter e facebook.E é claro que,
-            sem as outras pessoas que a ajudaram esse projeto não
-            seria absolutamente nada</p>
+            <p>"Primeiramente, estou muito feliz de ter participado desse projeto totalmente insano, espero que aproveite essa jornada maluco pelo seu Orkut pessoal!! Fotos russas bizonhas escolhidas a dedo por mim ;)"</p>
           </div>
 
           <div className="redessociais">
-          <a href="https://www.instagram.com/oincrivelmundodejulia/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
-         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
-         <a href="https://www.youtube.com/channel/UC4K0pmz5DcBwz73S6P3ZzfA">  <img src={Youtube} alt="Youtube" /> </a>
+          <a href="https://www.instagram.com/giovannideluca7/"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/filipe_giovanni">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://m.youtube.com/channel/UC7g68yyo4DEMyFjKZHHyuHA">  <img src={Youtube} alt="Youtube" /> </a>
          <a href="https://github.com/GiovanniDeLuca7">  <img src={Github} alt="Github" /></a>
 
           </div>
@@ -138,18 +132,13 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>Julia Bergman teve A brilhante (ou catastrófica) ideia
-            de dar de presente para sua amiga Ana Ono uma versão
-            futuristica do Orkut. O site foi inspirado em outras
-            plataformas como o twitter e facebook.E é claro que,
-            sem as outras pessoas que a ajudaram esse projeto não
-            seria absolutamente nada</p>
+            <p>"Venho através dessa nota comunicar que fiquei feliz em participar desse incrível projeto e ter piorado a 
+              qualidade de fotos à favor do<br/> A E S T H E T I C S foi uma honra. Feliz dia do bolo!"</p>
           </div>
 
           <div className="redessociais">
-          <a href="https://www.instagram.com/oincrivelmundodejulia/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
-         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
-         <a href="https://www.youtube.com/channel/UC4K0pmz5DcBwz73S6P3ZzfA">  <img src={Youtube} alt="Youtube" /> </a>
+          <a href="https://www.instagram.com/vazio_orbital/"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/Sir_Excelsior">  <img src={Twitter} alt="Twitter" /> </a>
          <a href="https://github.com/Xenomorph00">  <img src={Github} alt="Github" /></a>
 
 
@@ -176,7 +165,6 @@ export default class Testimony extends Component {
 
           <div className="redessociais">
           <a href="https://www.instagram.com/boyymatthew/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
-         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
          <a href="https://github.com/MattSouuza">  <img src={Github} alt="Github" /></a>
 
           </div>

@@ -32,12 +32,9 @@ function Forum1(){
             
             <div className="textobiof">
           
-                <div className="nomeTitulof">
-            <h1>lulu</h1>
-            <p> <br/>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
+            <div className="nomeTitulof">
+            <h1>pablo vittar</h1>
+            <p> <br/>vc acham que a anitah esta com inveja?</p>
             </div>
                
                
@@ -63,26 +60,23 @@ function Forum1(){
 
 
             <div className="outronome">
-            <h1>aninha da quebrada</h1>
+            <h1>Plinio</h1>
             </div>
             <div className="Pergunta1">
-             <p>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>      
+             <p>pablo vilar eu te odeio </p>      
             </div>
             </div>
 
             <div className="caixinhadoforumf2">
 
                 <div className="outronome2">
-                    <h1>Mc juju</h1>
+                    <h1>Samira close</h1>
                     </div>
                     <div className="Pergunta2">
-                        <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+                        <p>olha mana cuidado pra não ser canceladah... quem ta vendo da stream na minha nova música #ajudaamadrinha #naoqueroflopar #militei</p>
                     </div>
-               
-            </div>
+                    </div>
+
 {/** ITENS DO FORUM!!!!!!! */}
 
 

@@ -21,7 +21,7 @@ export default class Sidebar extends Component {
               Paris
             </p>
 
-            <span><br/>"A Julia enche o meu saco"</span>
+            <span><br/>"perigoh do recalk"</span>
           </div>
 
           <button>opinar</button>

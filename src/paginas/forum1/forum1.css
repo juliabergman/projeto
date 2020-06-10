@@ -135,7 +135,7 @@ color: #000000;
     
     position: absolute;
     width: 855px;
-    height: 400px;
+    height: 500px;
     left: 430px;
     top: 500px;
     margin-bottom: 150px;
@@ -206,6 +206,27 @@ border-radius: 48px;
     
     color: #202020;
 }
+
+ .botaoforum{
+    width: 80px;
+    height: 40px;
+  
+    background-color: #ff1ba8a6;
+  
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+  
+    border: none;
+    position: relative;
+    top: 80px;
+    margin: 40px;
+    left: 150px;
+    transition: filter 400ms;
+    text-decoration: none;
+}
+
+ 
 
 
 @media only screen and (max-device-width: 900px){

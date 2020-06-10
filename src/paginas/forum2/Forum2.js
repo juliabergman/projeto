@@ -32,11 +32,8 @@ function Forum1(){
             <div className="textobiof">
           
                 <div className="nomeTitulof">
-            <h1>lulu</h1>
-            <p> <br/>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
+            <h1>Anitta</h1>
+            <p> <br/>Como que usa isso????????</p>
             </div>
                
                
@@ -62,24 +59,28 @@ function Forum1(){
 
 
             <div className="outronome">
-            <h1>aninha da quebrada</h1>
+            <h1>juninho da moto</h1>
             </div>
             <div className="Pergunta1">
-             <p>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>      
+             <p>passa o xap gata que eu te explico rsrsrs</p>      
             </div>
             </div>
 
             <div className="caixinhadoforumf2">
 
                 <div className="outronome2">
-                    <h1>Mc juju</h1>
+                    <h1>mc mirela real</h1>
                     </div>
                     <div className="Pergunta2">
-                        <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+                        <p>ta me tirando?</p>
                     </div>
+
+                    <div className="botoeslindos3">
+         
+        <Link className="botaoforum" to='/comunidade' title="Voltar para comunidade">Comunidade</Link>
+        <Link className="botaoforum" to='/forum1' title="Forum 1">Anterior</Link>
+        <Link className="botaoforum" to='/forum3' title="Forum 3">Próximo </Link>
+        </div>
                
             </div>
 {/** ITENS DO FORUM!!!!!!! */}

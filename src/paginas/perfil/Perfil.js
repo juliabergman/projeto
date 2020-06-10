@@ -66,7 +66,13 @@ function Perfil(){
         
             <div className="sobreMim">
                 <h1>SOBRE MIM</h1>
-                <p>sou uma menina bem gatinha e famosa que amo meus fas *--*</p>
+                <p>sou uma menina bem gatinha e famosa que amo meus fas *--* eu nau sou faker ta bo???
+                    postei um video aqui explicando issoh, eh so procurar. Eu sei qe sou lindah mas nao quer dizer que seja falsoh
+                    . so blindadah de recalc e sou xeirosinhah rsrsrs meu coracao jah tem donoh que ja fique avisadh.
+                    estou a caminhoh de ganhar um grammi *---* 
+                    ...odeio haters e falsianehs, aqui eh soh depochy, e quem nao gostou eh so ralar pois beijinho no ombro que o recalc passa longe... sou mt bandidah
+                    to de olho nas talaricah........ eu ti corto 0_0.............. hum............... rsr..........................
+                </p>
             </div>
         
         </div>

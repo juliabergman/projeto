@@ -12,6 +12,7 @@ function Comunidade(){
 
         <div>
              <HeaderVisitante/>
+     
              <body>
             <div id="geralComunidade">
             <img src={Taylor} alt="Foto da Taylor Swift em quarentena" />
@@ -53,89 +54,88 @@ function Comunidade(){
 
 
            {/** ITENS DO FORUM!!!!!!! */}
-           <div className="caixinhadoforum"> 
+            <div className="caixinhadoforum"> 
 
 
-<div className="Pergunta">
-<Link to = '/forum1visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum1visitante'>A ana brigou com a pablo??</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum2visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum2visitante'>Como que usa isso????????</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum3visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum3visitante'>Qual o melhor look da ana??</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum4visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum4visitante'>o paiiii ta ooonnnn chama</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum5visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum5visitante'>Quem eh a mais famosinhah?</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum6visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum6visitante'>Vc acham que a anitah esta...</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum7visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
+            <div className="Pergunta">
+            <Link to = '/forum7visitante'>Quando sai novo cd?????? *0*</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
-<div className="Pergunta">
-<Link to = '/forum8visitante'>A ana brigou com a pablo??</Link>
-</div>
-<div className="data">
-    <p>12 de junho de 2020</p>
-</div>
-<div className="respostas"> 
-<p>5 respostas</p></div>
-
-
-
-</div>
+            <div className="Pergunta">
+            <Link to = '/forum8visitante'>Devo tatuar o rosto da ana...</Link>
+            </div>
+            <div className="data">
+                <p>12 de junho de 2020</p>
+            </div>
+            <div className="respostas"> 
+            <p>2 respostas</p></div>
 
 
 
-  {/** ITENS DO FORUM!!!!!!! */}
+            </div>
+          
 
+           
+              {/** ITENS DO FORUM!!!!!!! */}
 
 
 
@@ -143,6 +143,7 @@ function Comunidade(){
                           
             </div>
             <Footer/>
+         
             </body>
 
         </div>

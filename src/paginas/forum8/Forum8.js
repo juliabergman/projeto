@@ -32,22 +32,14 @@ function Forum1(){
             <div className="textobiof">
           
                 <div className="nomeTitulof">
-            <h1>lulu</h1>
-            <p> <br/>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
+            <h1>meias felizes</h1>
+            <p> <br/>devo tatuar o rosto da ana no meu casco? </p>
             </div>
                
                
                 </div>
 
-            <div className="forumconversaf">
-                <p> Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
-            </div>
+           
 
             <div className="tituloforumf">
                 <h1>RESPOSTAS</h1>
@@ -62,25 +54,29 @@ function Forum1(){
 
 
             <div className="outronome">
-            <h1>aninha da quebrada</h1>
+            <h1>Diva tulla luanna</h1>
             </div>
             <div className="Pergunta1">
-             <p>Essa comunidade foi feita
-                     para todos os Analovers pelo
-                     mundo.SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>      
+             <p>oq eh isso eu vou chamar a policia caralho </p>      
             </div>
             </div>
 
             <div className="caixinhadoforumf2">
 
                 <div className="outronome2">
-                    <h1>Mc juju</h1>
+                    <h1>joao</h1>
                     </div>
                     <div className="Pergunta2">
-                        <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+                        <p>si acalme meu amor</p>
                     </div>
                
+
+                    <div className="botoeslindos3">
+         
+         <Link className="botaoforum" to='/comunidade' title="Voltar para comunidade">Comunidade</Link>
+         <Link className="botaoforum" to='/forum7' title="Forum 7">Anterior</Link>
+
+         </div>
             </div>
 {/** ITENS DO FORUM!!!!!!! */}
 
