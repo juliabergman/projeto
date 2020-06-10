@@ -30,6 +30,8 @@ function Galeria() {
             <h2>Galeria de fotos</h2>
             <Slider {...settings}>
 
+
+
             <div className="car">
                 <div className="vai">
                   <img src={Taylor} alt="Taylor Swift" />
@@ -37,7 +39,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -54,7 +56,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -71,7 +73,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -88,7 +90,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -105,179 +107,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou cantor!</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-            <div className="car">
-                <div className="vai">
-                  <img src={Taylor} alt="Taylor Swift" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Estou linda nessa foto</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Dan} alt="Dan" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou gostoso</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Troye} alt="Troye Sivan" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Estou lindo nessa foto</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Harry} alt="Louis Tomlinson" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou maravilhoso</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Harry} alt="Harry Styles" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou cantor!</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-
-
-            <div className="car">
-                <div className="vai">
-                  <img src={Taylor} alt="Taylor Swift" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Estou linda nessa foto</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Dan} alt="Dan" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou gostoso</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Troye} alt="Troye Sivan" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Estou lindo nessa foto</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Harry} alt="Louis Tomlinson" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
-                    </div>
-
-                    <div className="coment-box">
-                      <p>Sou maravilhoso</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="car">
-                <div className="vai">
-                  <img src={Harry} alt="Harry Styles" />
-
-                  <div className="coments">
-                    <div className="coments-profile">
-                      <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -294,7 +124,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -311,7 +141,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -328,7 +158,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -345,7 +175,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -362,7 +192,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -379,7 +209,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -396,7 +226,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -413,7 +243,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -430,7 +260,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -447,7 +277,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -456,14 +286,15 @@ function Galeria() {
                   </div>
                 </div>
               </div>
-              <div className="car">
+
+            <div className="car">
                 <div className="vai">
                   <img src={Taylor} alt="Taylor Swift" />
 
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Taylor} alt="Taylor" />
-                      <p>Taylor Swift</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -480,7 +311,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Dan} alt="Dan" />
-                      <p>Dan Reynolds</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -497,7 +328,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Troye} alt="Troye" />
-                      <p>Troye Sivan</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -514,7 +345,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Louis" />
-                      <p>Louis Tomlinson</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -531,7 +362,7 @@ function Galeria() {
                   <div className="coments">
                     <div className="coments-profile">
                       <img src={Harry} alt="Harry" />
-                      <p>Harry Styles</p>
+                      <p>Ana ono</p>
                     </div>
 
                     <div className="coment-box">
@@ -540,6 +371,179 @@ function Galeria() {
                   </div>
                 </div>
               </div>
+
+            <div className="car">
+                <div className="vai">
+                  <img src={Taylor} alt="Taylor Swift" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Taylor} alt="Taylor" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Estou linda nessa foto</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Dan} alt="Dan" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Dan} alt="Dan" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou gostoso</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Troye} alt="Troye Sivan" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Troye} alt="Troye" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Estou lindo nessa foto</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Harry} alt="Louis Tomlinson" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Harry} alt="Louis" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou maravilhoso</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Harry} alt="Harry Styles" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Harry} alt="Harry" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou cantor!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            <div className="car">
+                <div className="vai">
+                  <img src={Taylor} alt="Taylor Swift" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Taylor} alt="Taylor" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Estou linda nessa foto</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Dan} alt="Dan" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Dan} alt="Dan" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou gostoso</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Troye} alt="Troye Sivan" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Troye} alt="Troye" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Estou lindo nessa foto</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Harry} alt="Louis Tomlinson" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Harry} alt="Louis" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou maravilhoso</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="car">
+                <div className="vai">
+                  <img src={Harry} alt="Harry Styles" />
+
+                  <div className="coments">
+                    <div className="coments-profile">
+                      <img src={Harry} alt="Harry" />
+                      <p>Ana ono</p>
+                    </div>
+
+                    <div className="coment-box">
+                      <p>Sou cantor!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
             </Slider>
           </div>
         </div>

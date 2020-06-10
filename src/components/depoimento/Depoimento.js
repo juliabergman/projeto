@@ -15,7 +15,7 @@ export default class depoimento extends Component {
             <p>visitante</p>
           </div>
 
-          <div className="text-box">
+          <div className="text-box3">
             <p>{this.props.name}</p>
           </div>
         </div>

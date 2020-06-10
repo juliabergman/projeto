@@ -1,5 +1,4 @@
 import React from 'react';
-import './comunidadeVisitante.css';
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Taylor from '../../assets/images/taylor.jpg';
 import { Link } from 'react-router-dom';

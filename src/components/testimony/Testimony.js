@@ -41,11 +41,6 @@ export default class Testimony extends Component {
 
 
           
-          <div className="redessociais">
-
-  
-
-          </div>
 
         </div>
 
@@ -69,7 +64,8 @@ export default class Testimony extends Component {
           <div className="redessociais">
           <a href="https://www.instagram.com/_ttheana/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
          <a href="https://github.com/de-carvalho">  <img src={Github} alt="Github" /></a>
-         
+         <a href="">  <img src={Twitter} alt="Twitter" /> </a>
+        
 
 
           </div>
@@ -98,7 +94,8 @@ export default class Testimony extends Component {
           <div className="redessociais">
         <a href="https://www.instagram.com/oieusouolucass/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
          <a href="https://github.com/eichild">  <img src={Github} alt="Github" /></a>
-
+         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+       
           </div>
 
           

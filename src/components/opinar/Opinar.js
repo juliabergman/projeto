@@ -22,7 +22,7 @@ export default class Opinar extends Component {
             <p>{this.props.user}</p>
           </div>
 
-          <div className="text-box">
+          <div className="text-box1">
             <p>{this.props.name}</p>
           </div>
         </div>

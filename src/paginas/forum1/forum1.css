@@ -208,7 +208,166 @@ border-radius: 48px;
 }
 
 
+@media only screen and (max-device-width: 900px){
 
+    #geralforum img{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        left: 27.3px;
+        top: 120px;
+        border-radius: 50%;
+    }
+
+    .bioBrancaf{
+        position: absolute;
+        width: 150px;
+        height: 70px;
+        left: 5px;
+        top: 230px;
+        border-radius: 26px;
+         background: rgba(255, 255, 255, 0.86);
+         text-align: center;
+        }
+        
+        .nomeTitulo2f{
+    
+            position: absolute;
+            
+            left: 25px;
+            top: 237px;
+            font-size: 10px;
+            
+            
+            color: #202020;
+            
+            }
+
+
+            .membrosf{
+                position: absolute;
+            
+            left: 25px;
+            top: 270px;
+            font-size: 15px;
+            
+            
+            color: rgb(59, 57, 57);
+            
+            }
+
+            .forumBiof{
+                position: absolute;
+                width: 168px;
+                height: 127px;
+                left: 180px;
+                top: 136px;
+                text-align: center;
+                
+                background: rgba(255, 255, 255, 0.86);
+                border-radius: 26px;
+                    
+            }
+
+            .nomeTitulof{
+                position: absolute;
+            
+            left: 200px;
+            top: 150px;
+            
+            font-size: 10px;
+            
+            
+            color: #202020;
+            
+            }
+
+            .tituloforumf{
+                position: absolute;
+            left: 120px;
+            top: 350px;
+            font-size: 22px;
+            color: #000000;
+            }
+
+            .caixinhadoforumf{
+                
+                position: absolute;
+                width: 282px;
+                height: 760px;
+                left: 40px;
+                top: 420px;
+                margin-bottom: 190px;
+                background: rgba(255, 255, 255, 0.86);
+                border-radius: 26px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-wrap: wrap;
+            
+            }
+
+            .outronome{
+                position: absolute;
+            
+                left: 21px;
+                top: 50px;
+                
+                font-size: 10px;
+                
+                
+                color: #202020;
+            }
+            
+            .Pergunta1{
+                position: absolute;
+            width: 271px;
+            height: 125px;
+            left:5px;
+            top: 100px;
+            
+            background: rgba(196, 196, 196, 0.678);
+            border-radius: 48px
+            }
+            
+            .Pergunta1 p{
+                text-align: center;
+                padding-top: 40px;
+                font-size: 15px;
+            }
+            
+            
+            .caixinhadoforumf2{
+                position: absolute;
+                width: 271px;
+            height: 125px;
+            left:45px;
+            top: 710px;
+            
+            background: rgba(196, 196, 196, 0.678);
+            border-radius: 48px;
+            }
+            .Pergunta2 p{
+                text-align: center;
+                padding-top: 50px;
+                font-size: 15px;
+            
+            }
+            
+            .outronome2{
+                position: absolute;
+            
+                left: 20px;
+                top: -40px;
+                
+                font-size: 10px;
+                
+                
+                color: #202020;
+            }
+            
+
+}
    
    
    

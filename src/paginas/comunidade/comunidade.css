@@ -280,6 +280,61 @@ color: #000000;
             
             color: rgb(59, 57, 57);
             }
+
+
+            .tituloforum{
+                position: absolute;
+            left: 120px;
+            top: 350px;
+            font-size: 22px;
+            color: #000000;
+            }
+            
+            .caixinhadoforum{
+                
+                position: absolute;
+                width: 282px;
+                height: 760px;
+                left: 40px;
+                top: 420px;
+                margin-bottom: 190px;
+                background: rgba(255, 255, 255, 0.86);
+                border-radius: 26px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-wrap: wrap;
+            
+            }
+
+
+            .caixinhadoforum a{
+                color: rgb(83, 71, 255);
+            
+                position: relative;
+            
+            padding-left:  20px;
+            top: 5px;
+            
+            
+            font-size: 20px;
+            line-height: 35px;
+            }
+            .caixinhadoforum .data{
+                color: rgb(82, 80, 82);
+                position: relative;
+            
+                left: 80px;
+                top:8px;
+            }
+            .caixinhadoforum .respostas{
+                color: rgb(82, 80, 82);
+                position: relative;
+            
+                left: -96px;
+                top:-15px;
+            
+            }
             
             
 
