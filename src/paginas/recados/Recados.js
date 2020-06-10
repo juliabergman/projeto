@@ -16,9 +16,7 @@ function Recados(){
                 <div className="emojiSorte">
             <div className="conteudo">
 
-            <button>Legal</button>
-            <button>Confiável</button>
-            <button>Sexy</button>
+             
             <h1>Sorte do dia</h1>
             <div className="frase">
                 <p>“que dia lindo para usar um fio dental”</p>

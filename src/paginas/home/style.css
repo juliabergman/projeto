@@ -133,10 +133,10 @@ color: #000000;
 
     .emojiSorte{
         position: absolute;
-    width: 175px;
-    height: 187px;
-    left: 145px;
-    top: 136px;
+    width: 135px;
+    height: 127px;
+    left: 80px;
+    top: 100px;
     
     
     background: rgba(255, 255, 255, 0.86);
@@ -146,7 +146,7 @@ color: #000000;
 
       .frase{
 
-        width: 157px;
+        width: 127px;
         height: 48px;
         left: 370px;
        
@@ -155,9 +155,51 @@ color: #000000;
         text-align: center;
         justify-content: center;
         padding-top: 15px;
-        font-size: 15px;
+        font-size: 12px;
         border-radius: 26px;
         }
+
+        
+.amigostituloopa{
+    position: absolute;
+
+left: 259px;
+top: 90px;
+
+font-family: 'Bebas Neue', cursive;
+
+font-size: 15px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.listaAmigos img{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    padding-top: 10px;
+    margin-right: 20px;
+    align-items: center;
+    margin: 5px;
+}
+
+.listaAmigos{
+    display: flex;
+text-align: center;
+justify-content: center;
+position: absolute;
+width: 120px;
+height: 350px;
+left: 230px;
+top: 120px;
+
+
+background: rgba(255, 255, 255, 0.78);
+border-radius: 16px;
+font-family: 'Bebas Neue', cursive;
+}
+
 
 }
   

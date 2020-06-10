@@ -83,5 +83,10 @@ margin: 6px;
   
     padding: 10px !important;
   }
+
+  .redessociais{
+    display: flex;
+    padding-top: 9px;
+  }
   
 }

@@ -10,6 +10,7 @@ import Instagram from '../../assets/images/quemsomos/instagram.svg'
 import Twitter from '../../assets/images/quemsomos/twitter.svg'
 import Youtube from '../../assets/images/quemsomos/youtube.svg'
 import Github from '../../assets/images/quemsomos/github.svg'
+
 export default class Testimony extends Component {
   render() {
     return (
@@ -26,10 +27,14 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
+
+         <a href="https://www.instagram.com/oincrivelmundodejulia/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://www.youtube.com/channel/UC4K0pmz5DcBwz73S6P3ZzfA">  <img src={Youtube} alt="Youtube" /> </a>
+         <a href="https://github.com/juliabergman">  <img src={Github} alt="Github" /></a>
+         
+
+         
 
 
           </div>
@@ -62,10 +67,9 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
+          <a href="https://www.instagram.com/_ttheana/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://github.com/de-carvalho">  <img src={Github} alt="Github" /></a>
+         
 
 
           </div>
@@ -92,11 +96,8 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
-
+        <a href="https://www.instagram.com/oieusouolucass/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://github.com/eichild">  <img src={Github} alt="Github" /></a>
 
           </div>
 
@@ -122,11 +123,10 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
-
+          <a href="https://www.instagram.com/oincrivelmundodejulia/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://www.youtube.com/channel/UC4K0pmz5DcBwz73S6P3ZzfA">  <img src={Youtube} alt="Youtube" /> </a>
+         <a href="https://github.com/GiovanniDeLuca7">  <img src={Github} alt="Github" /></a>
 
           </div>
 
@@ -150,10 +150,10 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
+          <a href="https://www.instagram.com/oincrivelmundodejulia/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://www.youtube.com/channel/UC4K0pmz5DcBwz73S6P3ZzfA">  <img src={Youtube} alt="Youtube" /> </a>
+         <a href="https://github.com/Xenomorph00">  <img src={Github} alt="Github" /></a>
 
 
           </div>
@@ -178,11 +178,9 @@ export default class Testimony extends Component {
           </div>
 
           <div className="redessociais">
-          <img src={Instagram} alt="Imagem do colaborador" />
-          <img src={Twitter} alt="Imagem do colaborador" />
-          <img src={Youtube} alt="Imagem do colaborador" />
-          <img src={Github} alt="Imagem do colaborador" />
-
+          <a href="https://www.instagram.com/boyymatthew/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://twitter.com/Biribrinha">  <img src={Twitter} alt="Twitter" /> </a>
+         <a href="https://github.com/MattSouuza">  <img src={Github} alt="Github" /></a>
 
           </div>
 
