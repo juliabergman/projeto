@@ -6,10 +6,10 @@ import Lucas from '../../assets/images/quemsomos/lucasgostoso.jpeg'
 import Filipe from '../../assets/images/quemsomos/filipegostoso.jpeg'
 import Matheus from '../../assets/images/quemsomos/matheusgostoso.jpeg'
 import LucasLolo from '../../assets/images/quemsomos/lologostoso.jpeg'
-// import Instagram from '../../assets/images/quemsomos/instagram.png'
-// import Twitter from '../../assets/images/quemsomos/twitter.png'
-// import Youtube from '../../assets/images/quemsomos/youtube.png'
-// import Github from '../../assets/images/quemsomos/github.png'
+import Instagram from '../../assets/images/quemsomos/instagram.svg'
+import Twitter from '../../assets/images/quemsomos/twitter.svg'
+import Youtube from '../../assets/images/quemsomos/youtube.svg'
+import Github from '../../assets/images/quemsomos/github.svg'
 export default class Testimony extends Component {
   render() {
     return (
@@ -23,6 +23,15 @@ export default class Testimony extends Component {
 
           <div className="text-box">
             <p>"Atualmente sou a "maluca dos projetos", e as vezes não tenho muito tempo pra presentear as pessoas que amo, mas claro que não deixaria passar a data em branco. Tive essa ideia duas semanas antes da data, então eu diria que foi quase um projeto suicida, porém, já passei do tempo de morar na zona de conforto. E claramente eu não seria nada sem a minha equipe (ou startap, talvez) que topou essa loucura comigo. Não sou nada sem vocês!"</p>
+          </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
           </div>
 
 
@@ -51,6 +60,16 @@ export default class Testimony extends Component {
             sem as outras pessoas que a ajudaram esse projeto não
             seria absolutamente nada</p>
           </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
+          </div>
+
           
         </div>
 
@@ -71,6 +90,16 @@ export default class Testimony extends Component {
             sem as outras pessoas que a ajudaram esse projeto não
             seria absolutamente nada</p>
           </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
+          </div>
+
           
         </div>
 
@@ -91,6 +120,16 @@ export default class Testimony extends Component {
             sem as outras pessoas que a ajudaram esse projeto não
             seria absolutamente nada</p>
           </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
+          </div>
+
           
         </div>
 
@@ -109,6 +148,16 @@ export default class Testimony extends Component {
             sem as outras pessoas que a ajudaram esse projeto não
             seria absolutamente nada</p>
           </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
+          </div>
+
           
         </div>
 
@@ -127,6 +176,16 @@ export default class Testimony extends Component {
             sem as outras pessoas que a ajudaram esse projeto não
             seria absolutamente nada</p>
           </div>
+
+          <div className="redessociais">
+          <img src={Instagram} alt="Imagem do colaborador" />
+          <img src={Twitter} alt="Imagem do colaborador" />
+          <img src={Youtube} alt="Imagem do colaborador" />
+          <img src={Github} alt="Imagem do colaborador" />
+
+
+          </div>
+
           
         </div>
 
