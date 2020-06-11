@@ -14,6 +14,8 @@ import Amigo8 from '../../assets/images/amigos/8.png'
 import Amigo9 from '../../assets/images/amigos/9.png'
 import Amigo10 from '../../assets/images/amigos/10.png'
 import Amigo11 from '../../assets/images/amigos/11.png'
+import Foto26 from '../../assets/images/Galeria/27.png';
+import Capa from '../../assets/images/capa.png'
 
 
 function Perfil(){
@@ -25,10 +27,10 @@ function Perfil(){
          <main>
         <div id="geralPerfil">
             <div className="capa">
-            <img src={Taylor} alt="capa" />
+            <img src={Capa} alt="capa" />
             </div>
             <div className="perfil">
-            <img src={Taylor} alt="capa" />
+            <img src={Foto26} alt="perfil" />
             </div>
             <div className="oNomeDaAna">
                 <h1>Ana Ono</h1>

@@ -9,7 +9,6 @@ import Comunidade from './paginas/comunidade/Comunidade';
 import Perfil from './paginas/perfil/Perfil'
 import HomeVisitante from './paginas/homeVisitante/HomeVisitante'
 import RecadosVisitante from './paginas/recadosVisitante/RecadosVisitante'
-import GaleriaVisitante from'./paginas/galeriavisitante/GaleriaVisitante';
 import ComunidadeVisitante from './paginas/comunidadevisitante/ComunidadeVisitante';
 import Forum1 from   './paginas/forum1/Forum1'
 import Forum1Visitante from   './paginas/forum1visitante/Forum1Visitante'
@@ -45,7 +44,6 @@ function Routes() {
                <Route path="/perfil" component={Perfil} />
                <Route path="/homevisitante" component={HomeVisitante} />
                <Route path="/recadosvisitante" component={RecadosVisitante} />
-               <Route path="/galeriavisitante" component={GaleriaVisitante} />
                <Route path="/forum1" component={Forum1} />
                <Route path="/forum1visitante" component={Forum1Visitante} />
                <Route path="/forum2" component={Forum2} />

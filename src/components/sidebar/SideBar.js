@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 import './sidebar.css';
 
-import Taylor from '../../assets/images/taylor.jpg';
+import Foto26 from '../../assets/images/Galeria/27.png';
 
 export default class Sidebar extends Component {
   render() {
@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
     
         <div className="sidebar-container">
 
-          <img src={Taylor} alt="Foto da Taylor Swift em quarentena" />
+          <img src={Foto26} alt="Foto da Taylor Swift em quarentena" />
 
 
           <div className="info">

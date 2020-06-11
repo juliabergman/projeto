@@ -155,16 +155,12 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>Julia Bergman teve A brilhante (ou catastrófica) ideia
-            de dar de presente para sua amiga Ana Ono uma versão
-            futuristica do Orkut. O site foi inspirado em outras
-            plataformas como o twitter e facebook.E é claro que,
-            sem as outras pessoas que a ajudaram esse projeto não
-            seria absolutamente nada</p>
+            <p>"Em primeiro lugar, feliz aniversário! Espero que você ame este adorável site que a incrível Julia desenvolveu pra ti. Ajudei em algumas partes do design e código, não nos conhecemos, mas foi de coração. Parabéns!"</p>
           </div>
 
           <div className="redessociais">
           <a href="https://www.instagram.com/boyymatthew/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
+          <a href="https://twitter.com/MattSouuza">  <img src={Twitter} alt="Twitter" /> </a>
          <a href="https://github.com/MattSouuza">  <img src={Github} alt="Github" /></a>
 
           </div>

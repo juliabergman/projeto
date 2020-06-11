@@ -13,8 +13,8 @@ function Login(){
             <input placeholder="Digite seu email aqui..."/>
             <label >Senha</label>
             <input placeholder="Digite sua senha aqui..."/>           
-            <Link className="linklogin" to='/quemsomos' title="Home da ana">Entrar</Link>
-            <Link className="linklogin" to='/quemsomosvisitante' title="Home do visitante do site">Visitante</Link>
+            <Link className="linklogin" to='/home' title="Home da ana">Entrar</Link>
+            <Link className="linklogin" to='/homevisitante' title="Home do visitante do site">Visitante</Link>
            
         </div>
        
