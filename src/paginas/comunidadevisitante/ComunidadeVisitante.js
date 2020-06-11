@@ -3,6 +3,7 @@ import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Taylor from '../../assets/images/taylor.jpg';
 import { Link } from 'react-router-dom';
 import Footer from '../../components/footer/Footer'
+import Foto10 from '../../assets/images/Galeria/11.png';
 
 
 function Comunidade(){
@@ -15,7 +16,7 @@ function Comunidade(){
      
              <body>
             <div id="geralComunidade">
-            <img src={Taylor} alt="Foto da Taylor Swift em quarentena" />
+            <img src={Foto10} alt="Foto da Taylor Swift em quarentena" />
             <div className="bioBranca"></div>
                 <div className="nomeTitulo2">
             <h1>EU SOU ANALOVER</h1>
