@@ -99,7 +99,7 @@
 
   #supremo {
     width: 100%;
-    height: 30vh;
+    height: 50vh;
   
     display: flex;
     justify-content: center;
@@ -124,34 +124,37 @@
   }
   
   .carousel-content img {
-    margin-top: 0px;
+    margin-top: -1798px;
     margin-left: 0px;
   
-    width: 500px;
-    height: 500px;
+    width: 310px;
+    height: 310px;
   }
   
   .car {
-    width: 0%;
-    height: 68vh;
+    width: 0px !important;
+    height: 0vh;
+  
   }
   
   .vai {
     width: 0%;
     display: flex;
     align-items: center;
+    padding-top: 810px;
+    height: 690px;
   
     background-color: rgba(255, 255, 255, 0.185);
   }
   
   .coments {
-    width: 40%;
+    width: 50%;
     height: 100vh;
   
-    margin-left: 70px;
   
+    
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
     color: rgba(255, 255, 255, 0);
   }
@@ -161,7 +164,6 @@
     height: 40px;
   
     margin-right: 10px;
-    margin-left: ;
   
     border-radius: 50%;
   }
@@ -175,14 +177,7 @@
     margin-bottom: 0px;
   }
   
-  .coment-box {
-    width: 0px;
-    height: 0px;
-  }
 
-  .coments-profile img{
-    width: 0px;
-  }
 
  
 
