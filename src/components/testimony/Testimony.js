@@ -10,6 +10,8 @@ import Instagram from '../../assets/images/quemsomos/instagram.svg'
 import Twitter from '../../assets/images/quemsomos/twitter.svg'
 import Youtube from '../../assets/images/quemsomos/youtube.svg'
 import Github from '../../assets/images/quemsomos/github.svg'
+import Diogo from '../../assets/images/quemsomos/diogogostoso.jpeg'
+
 
 export default class Testimony extends Component {
   render() {
@@ -53,12 +55,7 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>Julia Bergman teve A brilhante (ou catastrófica) ideia
-            de dar de presente para sua amiga Ana Ono uma versão
-            futuristica do Orkut. O site foi inspirado em outras
-            plataformas como o twitter e facebook.E é claro que,
-            sem as outras pessoas que a ajudaram esse projeto não
-            seria absolutamente nada</p>
+            <p>"testemunho lindo aqui e a pessoa ainda n me mandou"</p>
           </div>
 
           <div className="redessociais">
@@ -82,12 +79,7 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>Julia Bergman teve A brilhante (ou catastrófica) ideia
-            de dar de presente para sua amiga Ana Ono uma versão
-            futuristica do Orkut. O site foi inspirado em outras
-            plataformas como o twitter e facebook.E é claro que,
-            sem as outras pessoas que a ajudaram esse projeto não
-            seria absolutamente nada</p>
+            <p>"testemunho lindo aqui e a pessoa ainda n me mandou"</p>
           </div>
 
           <div className="redessociais">
@@ -162,6 +154,27 @@ export default class Testimony extends Component {
           <a href="https://www.instagram.com/boyymatthew/?hl=pt"> <img src={Instagram} alt="Instagram" /></a>
           <a href="https://twitter.com/MattSouuza">  <img src={Twitter} alt="Twitter" /> </a>
          <a href="https://github.com/MattSouuza">  <img src={Github} alt="Github" /></a>
+
+          </div>
+
+          
+        </div>
+
+
+        <div className="tstm">
+          <div className="tst-info">
+            <img src={Diogo} alt="Imagem do colaborador" />
+            <h3>Diogo Botton</h3>
+            <p>desenvolvedor</p>
+          </div>
+
+          <div className="text-box">
+            <p>"testemunho lindo aqui e a pessoa ainda n me mandou"</p>
+          </div>
+
+          <div className="redessociais">
+          <a href="https://www.instagram.com/diogo.botton/"> <img src={Instagram} alt="Instagram" /></a>
+         <a href="https://github.com/DiogoBotton">  <img src={Github} alt="Github" /></a>
 
           </div>
 
