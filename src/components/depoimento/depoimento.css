@@ -2,8 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 15em;;
-  width: 400px;
+  padding-top: 300px;
+  width: 500px;
+  padding-left: 330px;
   }
   
   h3, p {
@@ -21,32 +22,40 @@
   
     .depoimentotst-info {
       text-align: center;
+      width: 200px;
+      height: 180px;
       
     }
   
     .depoimentotst-info h3 {
       font-size: 25px;
       background: #FCE1CB;
-      margin-top: 20px;
+      margin-top: 10px;
+      width:230px ;
     }
   
     .depoimentotst-info p {
       font-size: 20px;
       background: #FCE1CB;
+      width:230px ;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    
     }
   
   .depoimentotstm {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 80px;
   }
   
   .text-box3 {
-    width: 500px;
-    height: 100px;
+    width: 450px;
+    height: 150px;
     background: rgba(255, 255, 255, 0.85);
     
     margin-left: 80px;
-  
+  margin: 20px;
     border-radius: 8px;
   
     display: flex;
