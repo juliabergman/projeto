@@ -1,6 +1,5 @@
 import React from 'react';
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
-import Taylor from '../../assets/images/taylor.jpg';
 import { Link } from 'react-router-dom';
 import Footer from '../../components/footer/Footer'
 import Foto10 from '../../assets/images/Galeria/11.png';

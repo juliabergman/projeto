@@ -3,9 +3,6 @@ import React, { Component } from 'react';
 import './depoimento.css';
 
 import User from '../../assets/images/userfoto.png.png'
-import img1 from '../../assets/images/funkeiro.jpg';
-import img2 from '../../assets/images/stalin.jpg';
-import img3 from '../../assets/images/bozo.jpg';
 
 export default class depoimento extends Component {
   render() {
@@ -28,7 +25,7 @@ export default class depoimento extends Component {
           <div>
 
           <div className="depoimentotst-info">
-            <img src={img1} alt="Imagem do usuario" />
+            <img src={User} alt="Imagem do usuario" />
             <h3>Vitinhooo</h3>
             <p>Visitante</p>
           </div>
@@ -49,29 +46,8 @@ export default class depoimento extends Component {
           
           </div>
 
-          <div>
+          
 
-          <div className="depoimentotst-info">
-            <img src={img2} alt="Imagem do usuario" />
-            <h3>Josef Stalin</h3>
-            <p>Visitante</p>
-          </div>
-
-          <div className="text-box3">
-            <p>Salve a União Soviética, minha camarada aninhahhh! :p</p>
-          </div>
-
-          <div className="depoimentotst-info">
-            <img src={img3} alt="Imagem do usuario" />
-            <h3>Bozonaro</h3>
-            <p>Lixo</p>
-          </div>
-
-          <div className="text-box3">
-            <p>uNiAo SoviEtcA È mEu brIoCo, tAL Key?!</p>
-          </div>
-
-          </div>
         </div>
 
         

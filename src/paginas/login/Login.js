@@ -71,7 +71,7 @@ render(){
                 id="login__password"
             />           
             {/* <Link className="linklogin" to='/home' title="Home da ana">Entrar</Link> */}
-            <Link className="linklogin" to='/homevisitante' title="Home do visitante do site">Visitante</Link>
+          
             <p style={{ color : 'red' }}>{this.state.erroMensagem}</p>
             {
                 this.state.isLoading === true &&
@@ -85,6 +85,7 @@ render(){
                     <button type="submit" className="btn btn__login" id="btn__login">Login</button>
                 </div>
             }
+              <Link className="linklogin" to='/homevisitante' title="Home do visitante do site">Visitante</Link>
         </div>
        </form>
         </div>

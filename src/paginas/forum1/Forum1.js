@@ -1,7 +1,6 @@
 import React from 'react';
 import './forum1.css';
 import Header from '../../components/header/Header';
-import Taylor from '../../assets/images/taylor.jpg';
 import Footer from '../../components/footer/Footer'
 import {Link} from 'react-router-dom';
 import Foto10 from '../../assets/images/Galeria/11.png';

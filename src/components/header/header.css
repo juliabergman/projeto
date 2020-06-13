@@ -24,6 +24,15 @@ header ul a{
 
 }
 
+header img{
+    width: 15vh;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 750px;
+}
+
 @media only screen and (max-device-width: 900px){
     header nav ul{
         display: flex;

@@ -4,8 +4,8 @@ import Opinar from '../../components/opinar/Opinar';
 import Footer from '../../components/footer/Footer'
 import PerfilVisitante from '../../components/perfilvisitante/PerfilVisitante'
 import './homevisitante.css'
-import Taylor from '../../assets/images/taylor.jpg';
 import {Link} from 'react-router-dom';
+import Foto10 from '../../assets/images/Galeria/11.png';
 function HomeVisitante(){
     return(
 
@@ -25,7 +25,7 @@ function HomeVisitante(){
                 <Opinar/>
                 <div className="niverdodia">
                     <h1 className="niverdodiatexto">ANIVERSARIANTE</h1>
-                    <img src={Taylor} alt="Foto da Taylor Swift em quarentena" />
+                    <img src={Foto10} alt="Foto da Taylor Swift em quarentena" />
                     <Link className="linkperfil22" to='/perfilvisitante' title="perfil ana"> Ver perfil </Link>
                 </div>
             

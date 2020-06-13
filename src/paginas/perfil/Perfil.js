@@ -1,6 +1,5 @@
 import React from 'react';
 import './perfil.css';
-import Taylor from '../../assets/images/taylor.jpg'
 import Header from '../../components/header/Header'
 import Footer from '../../components/footer/Footer'
 import Amigo1 from '../../assets/images/amigos/1.png'

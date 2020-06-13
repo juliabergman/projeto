@@ -1,6 +1,4 @@
 import React from 'react';
-
-import Taylor from '../../assets/images/taylor.jpg'
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante'
 import Footer from '../../components/footer/Footer'
 import Amigo1 from '../../assets/images/amigos/1.png'
