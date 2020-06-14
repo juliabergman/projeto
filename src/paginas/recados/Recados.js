@@ -3,7 +3,7 @@ import './recados.css';
 import Header from '../../components/header/Header';
 import Sidebar from '../../components/sidebar/SideBar'
 import Depoimento from '../../components/depoimento/Depoimento';
-import Footer from '../../components/footer/Footer'
+
 
 
 
@@ -31,7 +31,6 @@ function Recados(){
                 
                                    
                 </div>
-                <Footer/>
                 </div>
             
 

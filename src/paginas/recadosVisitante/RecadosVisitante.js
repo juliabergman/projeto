@@ -3,7 +3,6 @@ import './recadosVisitante.css';
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Depoimento from '../../components/depoimento/Depoimento';
 import PerfilVisitante from '../../components/perfilvisitante/PerfilVisitante'
-import Footer from '../../components/footer/Footer'
 
 function RecadosVisitante(){
     return(
@@ -23,7 +22,6 @@ function RecadosVisitante(){
                 <Depoimento/>
             
         </div>
-        <Footer/>
         </div>
 
     );

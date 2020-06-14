@@ -3,7 +3,6 @@ import './style.css'
 import Header from '../../components/header/Header';
 import Sidebar from '../../components/sidebar/SideBar'
 import Opinar from '../../components/opinar/Opinar';
-import Footer from '../../components/footer/Footer'
 import Amigo1 from '../../assets/images/amigos/1.png'
 import Amigo2 from '../../assets/images/amigos/2.png'
 import Amigo3 from '../../assets/images/amigos/3.png'
@@ -73,7 +72,7 @@ function Home(){
             
         </div>
         </body>
-        <Footer/>
+     
         </div>
         
 

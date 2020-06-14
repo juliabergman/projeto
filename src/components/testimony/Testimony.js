@@ -55,7 +55,7 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>"testemunho lindo aqui e a pessoa ainda n me mandou"</p>
+            <p>"Fico muito contente de ter participado de algo tão legal, principalmente porque agora tenho conteúdo o suficiente para expor a dona do projeto. Brincadeiras a parte, fico muito feliz de ter contribuído de alguma forma."</p>
           </div>
 
           <div className="redessociais">

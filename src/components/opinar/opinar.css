@@ -2,9 +2,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 300px;
+    /* padding-top: 300px; */
+
     width: 500px;
     padding-left: 330px;
+    position: relative;
+    top: 290px;
   }
   
   h3, p {
@@ -21,8 +24,8 @@
   
     .tstmOpinar-info {
       text-align: center;
-      width: 300px;
-      height: 300px;
+      width: 100px;
+      height: 200px;
       
     }
   
@@ -39,13 +42,13 @@
   
   .tstmOpinar {
     margin-top: 80px;
-    margin-bottom: 80px;
+    /* margin-bottom: 80px; */
   
   }
   
   .text-box1 {
-    width: 750px;
-    height: 350px;
+    width: 550px;
+    height: 150px;
     background: rgba(255, 255, 255, 0.85);
     
     margin-left: 80px;

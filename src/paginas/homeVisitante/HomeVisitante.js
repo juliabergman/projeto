@@ -1,7 +1,6 @@
 import React from 'react'
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Opinar from '../../components/opinar/Opinar';
-import Footer from '../../components/footer/Footer'
 import PerfilVisitante from '../../components/perfilvisitante/PerfilVisitante'
 import './homevisitante.css'
 import {Link} from 'react-router-dom';
@@ -30,7 +29,6 @@ function HomeVisitante(){
                 </div>
             
         </div>
-        <Footer/>
         </div>
 
     );
