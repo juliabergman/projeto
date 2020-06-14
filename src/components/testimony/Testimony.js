@@ -169,7 +169,7 @@ export default class Testimony extends Component {
           </div>
 
           <div className="text-box">
-            <p>"testemunho lindo aqui e a pessoa ainda n me mandou"</p>
+            <p>"Coee Anaa, sou o Diogo, amigo da Júlia e ajudei ela a fazer esse site bem simples pra você! Faço curso de Desenvolvimento de Sistemas com ela e ajudei com a API. Feliz aniversário :)"</p>
           </div>
 
           <div className="redessociais">
