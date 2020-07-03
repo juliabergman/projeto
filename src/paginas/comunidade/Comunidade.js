@@ -32,7 +32,7 @@ function Comunidade(){
                 <div className="esquerdo">             
                 <p>IDIOMA:pt,br</p>
                 <p>CATEGORIA:fama</p>
-                <p> TIPO:publico</p>
+                <p>TIPO:publico</p>
                 </div>
                 <div className="direito">
                
@@ -45,7 +45,7 @@ function Comunidade(){
                 <p> Essa comunidade foi feita
                      para todos os Analovers pelo
                      mundo. <br/>SE VC EH UM DESSES 
-                     SE SINTA EM KASAH! *----*</p>
+                     SE SINTA EM KASAH!! *----*</p>
             </div>
 
             <div className="tituloforum">
