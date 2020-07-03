@@ -3,6 +3,7 @@ import React from 'react';
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Footer from '../../components/footer/Footer'
 import Foto10 from '../../assets/images/Galeria/11.png';
+import {Link} from 'react-router-dom';
 
 
 function Forum1(){
@@ -67,6 +68,12 @@ function Forum1(){
               <div className="Pergunta2">
                   <p>Soh boatos gatah</p>
               </div>
+               
+              <div className="botoeslindos3">
+         
+         <Link className="botaoforum" to='/comunidadevisitante' title="Voltar para comunidade">Comunidade</Link>
+         <Link className="botaoforum" to='/forum2visitante' title="Forum 2">Próximo </Link>
+         </div>
                
             </div>
 {/** ITENS DO FORUM!!!!!!! */}

@@ -72,7 +72,7 @@ render(){
             />           
             {/* <Link className="linklogin" to='/home' title="Home da ana">Entrar</Link> */}
           
-            <p style={{ color : 'red' }}>{this.state.erroMensagem}</p>
+            <p className="aviso" style={{ color : 'red' }}>{this.state.erroMensagem}</p>
             {
                 this.state.isLoading === true &&
                 <div className="item">

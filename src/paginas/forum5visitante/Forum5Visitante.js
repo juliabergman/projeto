@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom';
 import HeaderVisitante from '../../components/headervisitante/HeaderVisitante';
 import Footer from '../../components/footer/Footer'
 import Foto10 from '../../assets/images/Galeria/11.png';
@@ -73,7 +73,12 @@ function Forum1(){
                    
                         </div>
                         </div>
-               
+                        {/* <div className="botoeslindos3">
+         
+         <Link className="botaoforum" to='/comunidadevisitante' title="Voltar para comunidade">Comunidade</Link>
+         <Link className="botaoforum" to='/forum4visitante' title="Forum 4">Anterior</Link>
+         <Link className="botaoforum" to='/forum6visitante' title="Forum 6">Próximo </Link>
+         </div> */}
             </div>
 {/** ITENS DO FORUM!!!!!!! */}
 

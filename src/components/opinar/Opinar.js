@@ -40,7 +40,7 @@ export default class Opinar extends Component {
           </div>
 
           <div className="text-box1">
-            <p>amo usar meias molhadas #lidecomisso #soudiferentedetodos</p>
+            <p>amo usar meias molhadas #soudiferentedetds</p>
           </div>
 
 
@@ -91,7 +91,7 @@ export default class Opinar extends Component {
          </div>
 
          <div className="text-box1">
-          <p>hora de militar rsrrsrsrsrrssrsrsrsrrsrsrs</p>
+          <p>hora de militar rsrrsrsrsrr</p>
          </div>
 
 
@@ -164,7 +164,7 @@ export default class Opinar extends Component {
          <img src={User} alt="Imagem do usuario" />
     
        
-           <h3>Pabblo Vittar</h3>
+           <h3>Pabblo</h3>
          </div>
 
          <div className="text-box1">
@@ -195,7 +195,7 @@ export default class Opinar extends Component {
 
          <div className="text-box1">
           <p>
-          .......................................................puta
+          ....................................
           </p>
          </div>
 

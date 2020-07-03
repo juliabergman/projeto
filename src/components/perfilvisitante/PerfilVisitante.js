@@ -8,9 +8,14 @@ export default class PerfilVisitante extends Component{
             <div className="visitaPerfil"></div>
             <button>Opinar</button>
             <button>Depoimento</button>
-            <Link className="linkperfil" to='/' title="sair do site">Sair </Link>
+            <Link className="linkperfil" to='/' title="sair do site">Sair</Link>
+            
             </div>
 
         );
     }
+
+
 }
+
+// observação: ao clicar pra sair, as vezes funciona e as vezes não
